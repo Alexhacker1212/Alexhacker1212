@@ -19,9 +19,6 @@ Soporte y Staff de PS3 ROM CITY
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Alexhacker1212&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Alexhacker1212&icon=5&color=6)](https://visitcount.itsvg.in)
 
